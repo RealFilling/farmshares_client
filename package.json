@@ -1,0 +1,9 @@
+{
+  "author": "Leandro Ostera <leostera@gmail.com>",
+  "name": "FarmShares-Client",
+  "version": "0.0.1",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt-jade":"*"
+  }
+}
